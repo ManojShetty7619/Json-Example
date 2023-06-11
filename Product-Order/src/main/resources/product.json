@@ -1,0 +1,16 @@
+{
+	"order": {
+		"user": {
+			"username": "Rahul",
+			"password": "1234"
+		},
+		"product": [
+			{
+				"mango": {
+					"amount_price": "1000",
+					"quantity": "10"
+				}
+			}
+		]
+	}
+}
